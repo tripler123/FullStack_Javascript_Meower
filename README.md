@@ -1,3 +1,5 @@
-# meower
+# Meower - Twitter clone to cats
 
-### Full stack twitter's clone
+### Description
+
+Full stack twitter's clone
